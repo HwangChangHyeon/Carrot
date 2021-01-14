@@ -1,0 +1,2 @@
+JSON파일을 파일Writer로 읽어 파싱하는 Class가 있어 champion.json파일이 필요합니다.
+사용시 해당 클래스를 찾아 경로 설정이 필요합니다.
